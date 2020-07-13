@@ -1,2 +1,2 @@
 # MachineLeaning-Geek
-Important Books In machne learning
+Important Books In machine learning
