@@ -1,4 +1,4 @@
-# MachineLeaning-Geek
+# MachineLearning-Geek
 
 > This repository is open for HacktoberFest2020
 
