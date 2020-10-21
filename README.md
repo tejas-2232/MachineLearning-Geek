@@ -57,3 +57,7 @@ In line with Hacktoberfest values **(Quantity is fun, quality is key)** , here y
 
 **Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.**
 
+
+## Book Lists
+1.Big data Case study collection by Bernard Marr
+2.Hands on Machine Learning with Scikit Learn and Tensorflow.
