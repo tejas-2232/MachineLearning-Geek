@@ -59,5 +59,12 @@ In line with Hacktoberfest values **(Quantity is fun, quality is key)** , here y
 
 
 ## Book Lists
-1.Big data Case study collection by Bernard Marr
-2.Hands on Machine Learning with Scikit Learn and Tensorflow.
+
+1.Artificial Intelligence By Example Develop machine intelligence from scratch using real artificial intelligence <br>
+2.Big data Case study collection by Bernard Marr <br>
+3.Hands on Machine Learning with Scikit Learn and Tensorflow.<br>
+4. DeepLearning-IanGoodfellow <br>
+5.Introduction to Deep Learning <br>
+6. Linear Regression in Python <br>
+7.Machine Learning with Python Cookbook_ Practical Solutions from Preprocessing to Deep Learning-O’Reilly Media 
+
