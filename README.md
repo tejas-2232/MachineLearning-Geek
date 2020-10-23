@@ -67,4 +67,7 @@ In line with Hacktoberfest values **(Quantity is fun, quality is key)** , here y
 5.Introduction to Deep Learning <br>
 6. Linear Regression in Python <br>
 7.Machine Learning with Python Cookbook_ Practical Solutions from Preprocessing to Deep Learning-O’Reilly Media 
+8. Python Data analysis 2018 <br>
+9.Python Machine Learning with Example by PACKT <br>
 
+ 
