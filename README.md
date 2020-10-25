@@ -69,6 +69,7 @@ In line with Hacktoberfest values **(Quantity is fun, quality is key)** , here y
 7.Machine Learning with Python Cookbook_ Practical Solutions from Preprocessing to Deep Learning-O’Reilly Media 
 8. Python Data analysis 2018 <br>
 9.Python Machine Learning with Example by PACKT <br>
-10. Scipy and Numpy book by O'REILLY
-11. Scikit learn cookbook
+10. Scipy and Numpy book by O'REILLY <br>
+11. Scikit learn cookbook <br>
+12. Think Bayes by Allen Downey
  
