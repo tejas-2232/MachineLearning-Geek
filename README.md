@@ -72,5 +72,5 @@ In line with Hacktoberfest values **(Quantity is fun, quality is key)** , here y
 10. Scipy and Numpy book by O'REILLY <br>
 11. Scikit learn cookbook <br>
 12. Think Bayes by Allen Downey <br>
-13. Mathematics for Machine Learning- Garrett Thomas
+13. Mathematics for Machine Learning- Garrett Thomas <br>
 14. Machine Learning for Absolute Beginners - Oliver Theobald
