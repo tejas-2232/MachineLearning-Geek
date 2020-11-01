@@ -75,3 +75,5 @@ In line with Hacktoberfest values **(Quantity is fun, quality is key)** , here y
 13. Mathematics for Machine Learning- Garrett Thomas <br>
 14. Machine Learning for Absolute Beginners - Oliver Theobald <br>
 15. Statistical Methods  for Machine Learning - small book <br>
+16. The Hundred-Page Machine Learning Book - Andriy Burkov
+ 
