@@ -60,6 +60,7 @@ In line with Hacktoberfest values **(Quantity is fun, quality is key)** , here y
 
 ## Book Lists
 
+
 1.Artificial Intelligence By Example Develop machine intelligence from scratch using real artificial intelligence <br>
 2.Big data Case study collection by Bernard Marr <br>
 3.Hands on Machine Learning with Scikit Learn and Tensorflow.<br>
@@ -69,11 +70,16 @@ In line with Hacktoberfest values **(Quantity is fun, quality is key)** , here y
 7.Machine Learning with Python Cookbook_ Practical Solutions from Preprocessing to Deep Learning-O’Reilly Media 
 8. Python Data analysis 2018 <br>
 9.Python Machine Learning with Example by PACKT <br>
-10. Scipy and Numpy book by O'REILLY <br>
-11. Scikit learn cookbook <br>
-12. Think Bayes by Allen Downey <br>
-13. Mathematics for Machine Learning- Garrett Thomas <br>
-14. Machine Learning for Absolute Beginners - Oliver Theobald <br>
-15. Statistical Methods  for Machine Learning - small book <br>
-16. The Hundred-Page Machine Learning Book - Andriy Burkov
+10. Scikit learn cookbook <br>
+11. Think Bayes by Allen Downey <br>
+12. Mathematics for Machine Learning- Garrett Thomas <br>
+13. Machine Learning for Absolute Beginners - Oliver Theobald <br>
+14. Statistical Methods  for Machine Learning - small book <br>
+15. The Hundred-Page Machine Learning Book - Andriy Burkov
+
+
+> ### All the books listed here are for educational and research purpose only. All the credits goes to original Authors and publishers of the book.
+
+> ### In case if you find any material not aligning with the policies, you can contact me and I will remove the material.
+
  
