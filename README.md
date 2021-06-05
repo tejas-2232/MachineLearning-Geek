@@ -71,11 +71,10 @@ In line with Hacktoberfest values **(Quantity is fun, quality is key)** , here y
 8. Python Data analysis 2018 <br>
 9.Python Machine Learning with Example by PACKT <br>
 10. Scikit learn cookbook <br>
-11. Think Bayes by Allen Downey <br>
-12. Mathematics for Machine Learning- Garrett Thomas <br>
-13. Machine Learning for Absolute Beginners - Oliver Theobald <br>
-14. Statistical Methods  for Machine Learning - small book <br>
-15. The Hundred-Page Machine Learning Book - Andriy Burkov
+11. Mathematics for Machine Learning- Garrett Thomas <br>
+12. Machine Learning for Absolute Beginners - Oliver Theobald <br>
+13. Statistical Methods  for Machine Learning - small book <br>
+14. The Hundred-Page Machine Learning Book - Andriy Burkov
 
 
 > ### All the books listed here are for educational and research purpose only. All the credits goes to original Authors and publishers of the book.
